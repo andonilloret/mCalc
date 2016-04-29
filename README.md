@@ -1,2 +1,2 @@
 # mCalc
-Small library for matrix calculations
+Small library for matrix operations
