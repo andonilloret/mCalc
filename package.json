@@ -1,0 +1,25 @@
+{
+  "name": "mCalc",
+  "version": "0.0.1",
+  "description": "Small library for matrix operations",
+  "main": "src/mCalc.coffee",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andonilloret/mCalc"
+  },
+  "keywords": [
+    "Matrix",
+    "Matrices",
+    "Operations",
+    "Inverse",
+    "Multiply"
+  ],
+  "author": "Andoni Lloret",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/andonilloret/mCalc/issues"
+  }
+}
